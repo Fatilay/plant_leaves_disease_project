@@ -5,8 +5,6 @@ folders = ["../veri_setleri/orijinal_halleri/train",
            "../veri_setleri/orijinal_halleri/valid", 
            "../veri_setleri/orijinal_halleri/test"]
 
-# print("folders: ", folders)
-
 combined_folder = "./veri_setleri/birlestirilmis_hali"  # Tüm verilerin birleştirileceği klasör
 
 # Hedef klasör oluştur

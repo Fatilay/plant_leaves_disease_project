@@ -1,6 +1,4 @@
-# combined_folder = "./veri_setleri_2/birlestirilmis_hali"  # yeni birlestirdigimiz veri setinin dosyadaki kisayolu
-
-import splitfolders  # splitfolders kütüphanesini içe aktarın
+import splitfolders 
 
 # Birleştirilen veri kümesinin yolu
 input_folder = "./veri_setleri/birlestirilmis_hali"
